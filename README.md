@@ -1,5 +1,7 @@
 # hotel_chain_system
 
+***Frontend of the application is stored in frontend branch and backend is stored in backend branch***
+
 ***Description of the project:***
 
 CSCI 361 (Software engineering)/CSCI 341 (Database systems) Term Project
